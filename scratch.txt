@@ -1,0 +1,28 @@
+pythonProject  C:\Users\AS\PycharmProjects\pythonProject
+  .venv  library root
+    Lib
+      site-packages
+        pip
+        pip-23.2.1.dist-info
+        _virtualenv.pth
+        _virtualenv.py
+        pip-23.2.1.virtualenv
+    Scripts
+      activate
+      activate.bat
+      activate.fish
+      activate.nu
+      activate.ps1
+      activate_this.py
+      deactivate.bat
+      pip.exe
+      pip3.12.exe
+      pip3.exe
+      pip-3.12.exe
+      pydoc.bat
+      python.exe
+      pythonw.exe
+    .gitignore
+    pyvenv.cfg
+External Libraries
+Scratches and Consoles
